@@ -1,47 +1,156 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Malaya Coffee — Silverlake",
+  "tagline": "Filipino coffee, pulled slow on Sunset.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "Silverlake · 4.8 / 61 reviews",
+    "heading": "Filipino coffee. Pulled slow. Poured warm.",
+    "subheading": "Single-origin Cordillera beans, ube ice cream churned in-house, and a Sunset Boulevard corner that runs on hand-built drinks.",
+    "ctaText": "Call to order",
+    "ctaLink": "tel:8188505515",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3cH1rbteVnjtI50IURcA4GqTrCDCeXGVc2kGbkmlnPRWw2sshDnYyW5nJz7qYwDJtsVp8PqrLDLTLRtT6SRIDUxvUdxXNiRiPcHAsg6HcBCzJWfE9sUJTQ7OTjyjme7cCK9ggTUkhoybD=w1600"
   },
   "about": {
-    "heading": "About Us",
+    "label": "Our story",
+    "heading": "\"Malaya\" means free.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "We named the shop after the Tagalog word for free — because that's how good coffee should feel. No production-line lattes, no scripted upsells, no rush. Just the bean, the water, and the hands.",
+      "Our beans come from the Cordilleras and Sagada, hand-picked and lot-roasted weekly so the cup you drink today was green a week ago. The ube ice cream and pandan affogato are made in the back, by us, in small batches.",
+      "Come read a book on the bench. Linger over your second pour. We're not a queue clock."
+    ]
+  },
+  "story": {
+    "lead": "When we opened Malaya in 2023, the goal was simple: bring the coffee we grew up with to the people who hadn't tried it yet. Cordillera beans pulled the way our titos and titas drink them — strong, slow, and shared.",
+    "paragraphs": [
+      "Filipino coffee has a different lineage than the Italian-inflected lattes you find on most LA corners. The Cordilleras' Arabicas grow at elevation, harvested by smallholder farms whose families have been picking these cherries for generations. We pay flat-rate, direct-trade, and we name the farm on every bag.",
+      "The ice cream came later, when a regular asked if we could pair an espresso with ube. We churned a batch by hand the next morning, and it never came off the menu."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Cordillera Pour-Over",
+      "description": "Single-origin Arabica from Sagada and Benguet. Bright, floral, gentle finish. Brewed to order.",
+      "price": "$6",
+      "tag": "House signature"
+    },
+    {
+      "title": "Kapeng Barako",
+      "description": "The deep, smoky liberica varietal that built Filipino coffee. Served black, no apologies.",
+      "price": "$5",
+      "tag": "Strong & smoky"
+    },
+    {
+      "title": "Ube Latte",
+      "description": "Double espresso with real purple yam paste and oat milk. Earthy, slightly sweet, photogenic.",
+      "price": "$7",
+      "tag": "★ Most-ordered"
+    },
+    {
+      "title": "Pandan Affogato",
+      "description": "House-churned pandan ice cream drowned in a fresh shot of espresso. The reason regulars come back.",
+      "price": "$8",
+      "tag": "Made in-house"
+    },
+    {
+      "title": "Ube Halo-Halo Ice Cream",
+      "description": "Hand-churned ube with sweet beans, jackfruit, and toasted rice. One scoop, two, or a flight of three.",
+      "price": "from $5",
+      "tag": "Weekend batches"
+    },
+    {
+      "title": "Whole Bean — 12 oz",
+      "description": "Take Sagada or Benguet home. Roasted the same week, ground to your method on the spot.",
+      "price": "$22",
+      "tag": "Roasted weekly"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Issa M.",
+      "rating": 5,
+      "context": "Silverlake regular",
+      "text": "Best Filipino coffee in LA, full stop. The Sagada pour-over is delicate and clean, the ube latte tastes like an actual yam, and the staff actually wants to talk to you about what you're drinking."
+    },
+    {
+      "name": "Marcus K.",
+      "rating": 5,
+      "context": "Sunday morning crew",
+      "text": "I came in for an oat latte and left with a bag of beans, a pandan affogato, and a recommendation for the best lumpia in Echo Park. This is what a neighborhood coffee shop is supposed to feel like."
+    },
+    {
+      "name": "Nadia P.",
+      "rating": 5,
+      "context": "First visit",
+      "text": "Stumbled in on a walk and I'm so glad. The ube halo-halo ice cream was unbelievable — the kind of thing that makes you text three friends before you've finished it."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 850-5515",
+    "email": "hello@malayacoffee.com",
+    "address": "2839 Sunset Blvd, Los Angeles, CA 90026",
+    "mapEmbedQuery": "Malaya Coffee, 2839 Sunset Blvd, Los Angeles, CA 90026",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "8:00 AM – 6:00 PM",
+      "Tuesday": "8:00 AM – 6:00 PM",
+      "Wednesday": "8:00 AM – 6:00 PM",
+      "Thursday": "8:00 AM – 6:00 PM",
+      "Friday": "8:00 AM – 6:00 PM",
+      "Saturday": "9:00 AM – 6:00 PM",
+      "Sunday": "9:00 AM – 6:00 PM"
+    }
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/malayacoffeeshop/",
+    "facebook": "https://www.facebook.com/p/Malaya-Coffee-and-Ice-Cream-61577873533136/",
+    "yelp": "https://m.yelp.com/biz/malaya-coffee-and-ice-cream-los-angeles"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Malaya Coffee — Filipino-rooted coffee & ube ice cream in Silverlake",
+    "description": "Single-origin Cordillera coffee, ube lattes, and house-churned pandan ice cream on Sunset Boulevard. A Filipino-rooted Silverlake coffee shop, 4.8/5 on Google.",
+    "keywords": [
+      "Silverlake coffee shop",
+      "Filipino coffee Los Angeles",
+      "ube latte Silverlake",
+      "pandan affogato LA",
+      "Cordillera coffee",
+      "Sunset Boulevard cafe"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#9A3412",
+    "accentColor": "#059669",
+    "fontFamily": "nunito-dmsans"
+  },
+  "designSystem": {
+    "searchQuery": "wabi-sabi clay handcraft coffee filipino warm earth slow ceramic",
+    "styleName": "Claymorphism / Soft UI (Storytelling-Driven)",
+    "pattern": "Storytelling-Driven + Social Proof",
+    "palette": {
+      "primary": "#9A3412",
+      "secondary": "#C2410C",
+      "cta": "#9A3412",
+      "accent": "#059669",
+      "background": "#FFFBEB",
+      "text": "#0F172A",
+      "muted": "#64748B",
+      "border": "#F2E6E2",
+      "surface": "#FFFFFF"
+    },
+    "typography": {
+      "heading": "Nunito",
+      "body": "DM Sans",
+      "label": "Caveat",
+      "mood": "claymorphism, rounded, tactile, soft, warm, hand-craft, story-driven"
+    },
+    "moves": [
+      "Claymorphic dual-shadow surfaces (light TL + warm BR) on cream — extruded buttons and inset panels",
+      "Rounded pill nav floating with sticky offset — clay button language throughout",
+      "Storytelling split hero with photo inside soft clay frame and drift animation",
+      "Hand-written Caveat script for warm eyebrows ('Hello, Silverlake —', '✱ Our story')",
+      "Drop-cap editorial story block with multi-paragraph Filipino-coffee narrative",
+      "Menu items as soft clay tiles with numbered chips (01/02/03) and right-aligned terracotta prices — NOT spec lists",
+      "Asymmetric staggered review bubbles with oversized open-quote glyph on the corner",
+      "Visit block as one big clay card containing an inset map panel — not split columns",
+      "Full-bleed terracotta-gradient CTA bean with cream pill button"
+    ]
   }
 }
